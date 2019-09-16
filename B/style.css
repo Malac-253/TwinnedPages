@@ -1,4 +1,52 @@
 body
 {
-    color:blue;
+    
+    color: #2c3e50;
+    background-image: url("../imgs/pineapple-wallpaper-pattern-1462307008MHe.jpg");
+    border: 3px solid;
+    background-color:#ecf0f1;
+    padding: 0.4em;
+    margin: 1%;
+}
+h1{
+    border: 3px;
+    background-color:#cf6a87;
+    padding: 0.4em;
+    margin: 1%;
+    font-family: monospace
+}
+table{
+    background-color:#e77f67;
+    color: #ecf0f1;
+    font-family:sans-serif;
+    padding: 0.4em;
+    margin: 1%;
+}
+#nav{
+    background-color:#f7d794;
+    border: 3px solid;
+    color: #2c3e50
+        
+    
+}
+td.food{
+    border: 1px solid ;
+    border-color: black;
+    background-color:#ecf0f1;
+    color:black;
+}
+td:hover{
+    background-color: #303952;
+}
+tr.top
+{
+    border: 2px solid ;
+    border-color: black;
+    background-color: #786fa6;
+    font:Trebuchet MS;
+        
+}
+tr.food
+{
+    font-family: sans-serif
 }
